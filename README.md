@@ -34,7 +34,7 @@ Here are some ideas to get you started:
     />
     <img
         width="100%"
-        src="https://github-readme-streak-stats.herokuapp.com?user=HeimanPictures&theme=tokyonight"
+        src="https://github-readme-streak-stats.herokuapp.com?user=devenu85&theme=tokyonight"
     />
 </p>
 
