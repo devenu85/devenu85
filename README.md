@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devenu85&layout=compact&theme=tokyonight)](https://github.com/devenu85/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devenu85&count_private=true&layout=compact&theme=tokyonight)](https://github.com/devenu85/)
 
 -----------------------
 <br><p align="center"><b>Vɪꜱɪᴛᴏʀꜱ Cᴏᴜɴᴛ</b></p>  
