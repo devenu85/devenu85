@@ -15,15 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<details><summary><b>Trophies</b></summary>
-<br/>
-<p align="center">
-    <img
-        width="100%"
-        src="https://github-profile-trophy.vercel.app/?username=devenu85&theme=darkhub"
-    />
-</details>
-
 -----------------------
 
 
@@ -37,9 +28,6 @@ Here are some ideas to get you started:
         src="https://github-readme-streak-stats.herokuapp.com?user=devenu85&theme=tokyonight"
     />
 </p>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devenu85&count_private=true&layout=compact&theme=tokyonight)](https://github.com/devenu85/)
 
 -----------------------
 <br><p align="center"><b>Vɪꜱɪᴛᴏʀꜱ Cᴏᴜɴᴛ</b></p>  
