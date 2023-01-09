@@ -16,7 +16,16 @@ Here are some ideas to get you started:
 -->
 
 -----------------------
-
+<p align="center">
+    <img
+        width="100%"
+        src="https://github-readme-stats.vercel.app/api?username=devenu85&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"
+    />
+    <img
+        width="100%"
+        src="https://github-readme-streak-stats.herokuapp.com?user=devenu85&theme=tokyonight"
+    />
+</p>
 -----------------------
 <br><p align="center"><b>Vɪꜱɪᴛᴏʀꜱ Cᴏᴜɴᴛ</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{devenu85}/count.svg" /></p> 
