@@ -14,23 +14,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-```yaml
-name: DEVENU
-
-fields_of_interests:
-  - App Development
-  - Web Development
-  - Machine Learning
-  - DevOps & Cloud
-  - Open Source
-
-hobbies:
-  - Coding
-  - Traveling
-```
-
 ---
 
 ## 📊 GitHub Statistics
