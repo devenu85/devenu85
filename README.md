@@ -1,82 +1,104 @@
+# Hi there, I'm DEVENU 👋
+
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=Python+Developer;Telegram+Bot+Builder;Media+%26+Downloader+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+</div>
 
-<!-- ── ANIMATED HEADER BANNER ── -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=DEVENU&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=App%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descAlign=50)
+<br>
 
-<!-- ── TYPING ANIMATION ── -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+DEVENU+👋;Full+Stack+Developer+%7C+Open+Source+Lover;Always+learning+new+things...;Building+cool+stuff+every+day!)](https://git.io/typing-svg)
+<p align="center">
+  Passionate about building practical tools, Telegram bots, media downloaders, and exploring AI & automation.
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=devenu85&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/devenu85?label=Followers&style=for-the-badge&color=236ad3)
-![Stars](https://img.shields.io/github/stars/devenu85?label=Total%20Stars&style=for-the-badge&color=ffd700)
+---
 
+### 🚀 About Me
+
+- 🔭 Currently working on **Telegram bots**, **media tools**, and **AI-related projects**
+- 🌱 Exploring **AI agents**, **voice synthesis**, and **modern Python tooling**
+- 💡 Love contributing to open-source projects (especially downloaders & media tools)
+- ⚡ Fun fact: I enjoy forking, improving, and experimenting with useful tools
+- 🕒 Timezone: **UTC +05:30**
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+**Frameworks & Libraries**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+
+**Tools & Platforms**
+![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devenu85&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devenu85&layout=compact&theme=tokyonight&langs_count=8" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devenu85&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+### 🏆 GitHub Trophies
 
 <div align="center">
-
-<!-- ── MAIN STATS CARD ── -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devenu85&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-
-<!-- ── TOP LANGUAGES CARD ── -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devenu85&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
-
-</div>
-
-<div align="center">
-
-<!-- ── STREAK STATS (commits, current streak, longest streak) ── -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devenu85&theme=tokyonight&hide_border=true&background=0d1117&stroke=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" alt="GitHub Streak Stats"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=devenu85&theme=tokyonight&no-frame=true&column=7&margin-w=15" alt="GitHub Trophies" />
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+### 📈 Contribution Graph
 
 <div align="center">
-
-<!-- ── TROPHIES (commits, PRs, issues, stars, followers, repos) ── -->
-<img src="https://github-profile-trophy.vercel.app/?username=devenu85&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devenu85&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ---
 
-## 📈 Contribution Graph
+### 🔥 Recent Activity
 
-<div align="center">
-
-<!-- ── ACTIVITY GRAPH ── -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devenu85&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
-
-</div>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
-## 🔥 Pull Requests & Commits Insights
+### 📫 Connect with Me
 
-<div align="center">
-
-<!-- ── DETAILED STATS including PRs, Issues, Commits ── -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devenu85&theme=tokyonight" alt="Profile Summary"/>
-
-</div>
-
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devenu85&theme=tokyonight" alt="Top Langs by Repo"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devenu85&theme=tokyonight" alt="Top Langs by Commit"/>
-</div>
-
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devenu85&theme=tokyonight" alt="Stats"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devenu85&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
-</div>
+<p align="center">
+  <a href="https://github.com/devenu85">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-<!-- ── FOOTER WAVE ── -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=devenu85&style=flat-square&color=00C7B7" alt="Profile Views" />
+</div>
+
+<br>
+
+<p align="center">
+  <i>Thanks for visiting! Feel free to star ⭐ any of my repositories if you find them useful.</i>
+</p>
